@@ -1,6 +1,6 @@
 <!-- ========================= HERO / BLAUGRANA HEADER ========================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004D98,50:A50044,100:EDBB00&height=230&section=header&text=Nguyen%20Thai%20Hung&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20•%20FU-DEVER%20Vice%20President%20•%20Computer%20Vision%20Researcher&descSize=17&descAlignY=58" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004D98,50:A50044,100:EDBB00&height=230&section=header&text=Thai%20Hung%20Nguyen&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20•%20FU-DEVER%20Vice%20President%20•%20Computer%20Vision%20Researcher&descSize=17&descAlignY=58" width="100%" alt="Header Banner" />
 </div>
 
 <!-- LANGUAGE SWITCHER -->
@@ -17,7 +17,7 @@
 
 <div align="center">
   <a href="https://github.com/huanight19RaH">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=EDBB00&center=true&vCenter=true&width=860&lines=Hello!+I'm+Nguyen+Thai+Hung+%F0%9F%91%8B;AI+Engineer+%26+Researcher+in+the+making+%F0%9F%A7%A0;Vice+President+@+FU-DEVER+Tech+Club+%F0%9F%9A%80;Computer+Vision+%E2%80%A2+Image+Restoration+%E2%80%A2+Deep+Learning+%E2%9C%A8;M%C3%A9s+que+un+builder+%E2%80%A2+FC+Barcelona+Fan+%F0%9F%94%B4%F0%9F%94%B5" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=EDBB00&center=true&vCenter=true&width=860&lines=Hello!+I'm+Thai+Hung+Nguyen+%F0%9F%91%8B;AI+Engineer+%26+Researcher+in+the+making+%F0%9F%A7%A0;Vice+President+@+FU-DEVER+Tech+Club+%F0%9F%9A%80;Computer+Vision+%E2%80%A2+Image+Restoration+%E2%80%A2+Deep+Learning+%E2%9C%A8;M%C3%A9s+que+un+builder+%E2%80%A2+FC+Barcelona+Fan+%F0%9F%94%B4%F0%9F%94%B5" alt="Typing SVG" />
   </a>
 </div>
 
@@ -61,15 +61,15 @@
         <li>⚽ <b>Lifestyle &amp; Interests:</b> Passionate <b>FC Barcelona fan (Blaugrana 🔴🔵)</b>; enjoy football, swimming, reading, music, and strategic gaming; certified <b>IELTS 6.0</b> (2024).</li>
       </ul>
       <p>
-        <a href="assets/Nguyen_Thai_Hung_CV.pdf"><img src="https://img.shields.io/badge/📄_Curriculum_Vitae-Download_PDF-004D98?style=flat-square&labelColor=0A1224" alt="CV" /></a>
+        <a href="assets/Thai_Hung_Nguyen_CV.pdf"><img src="https://img.shields.io/badge/📄_Curriculum_Vitae-Download_PDF-004D98?style=flat-square&labelColor=0A1224" alt="CV" /></a>
         <img src="https://img.shields.io/badge/🔬_Research-2_Accepted_Papers-A50044?style=flat-square&labelColor=0A1224" alt="Researching" />
         <img src="https://img.shields.io/badge/🌐_English-IELTS_6.0-EDBB00?style=flat-square&labelColor=0A1224" alt="IELTS" />
       </p>
     </td>
     <td width="30%" valign="middle" align="center">
-      <img src="assets/avatar.png" width="190" style="border-radius:16px; border: 2px solid #A50044;" alt="Nguyen Thai Hung" />
+      <img src="assets/avatar.png" width="190" style="border-radius:16px; border: 2px solid #A50044;" alt="Thai Hung Nguyen" />
       <br/>
-      <sub><i>Nguyen Thai Hung • AI Engineer &amp; Researcher</i></sub>
+      <sub><i>Thai Hung Nguyen • AI Engineer &amp; Researcher</i></sub>
     </td>
   </tr>
 </table>
@@ -270,7 +270,7 @@
   <p>I am actively exploring AI/CV research collaborations, software engineering internships, and community building partnerships.</p>
 
   <a href="https://www.linkedin.com/in/thai-hung-nguyen-000b24356/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Nguyen_Thai_Hung-004D98?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A1224" alt="LinkedIn: Nguyen Thai Hung" />
+    <img src="https://img.shields.io/badge/LinkedIn-Thai_Hung_Nguyen-004D98?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A1224" alt="LinkedIn: Thai Hung Nguyen" />
   </a>
   <a href="mailto:hungnguyen.190206@gmail.com">
     <img src="https://img.shields.io/badge/Email-hungnguyen.190206@gmail.com-A50044?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A1224" alt="Gmail" />
