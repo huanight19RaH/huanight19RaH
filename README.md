@@ -42,7 +42,9 @@
 <!-- ========================= PHILOSOPHY ========================= -->
 <div align="center">
 
-> *"Technology creates true value when it solves real-world challenges. Scientific research must go hand-in-hand with applied engineering, and knowledge multiplies only when shared across the community."* 💡
+> *"As for the future, your task is not to foresee it, but to enable it."* 🌌
+>
+> — **Antoine de Saint-Exupéry**, *Citadelle* (1948)
 
 </div>
 

@@ -42,7 +42,9 @@
 <!-- ========================= TRIẾT LÝ ========================= -->
 <div align="center">
 
-> *"Công nghệ chỉ thực sự có giá trị khi giải quyết được những bài toán thực tiễn. Nghiên cứu khoa học cần đi đôi với ứng dụng thực tế, và tri thức chỉ được nhân bản khi được chia sẻ rộng rãi trong cộng đồng."* 💡
+> *"Đối với tương lai, nhiệm vụ của chúng ta không phải là ngồi đoán định, mà là đánh thức và mở lối để nó có thể thành hình."* 🌌
+>
+> — **Antoine de Saint-Exupéry**, *Citadelle* (1948)
 
 </div>
 
