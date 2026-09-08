@@ -8,7 +8,7 @@ on:
   # Cho phép chạy thủ công từ tab Actions
   workflow_dispatch:
   
-  # Chạy ngay lập tức mỗi khi có commit mới push lên nhánh main
+  # Chạy ngay khi có commit mới push lên main
   push:
     branches:
       - main
@@ -24,22 +24,22 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 1. Tạo hoạt ảnh Pac-Man ăn điểm commit trên Contribution Graph
-      - name: Generate Pac-Man contribution graph SVGs
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          games: 'pacman'
-          hide_month_labels: 'false'
-
-      # 2. Tạo hoạt ảnh Snake ăn điểm commit
-      - name: Generate GitHub Contribution Grid Snake
+      # 1. Tạo hoạt ảnh Snake ăn điểm commit với bảng màu Blaugrana (FC Barcelona)
+      - name: Generate GitHub Contribution Grid Snake (Blaugrana Theme)
         uses: platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23EDBB00&color_dots=%230A1224,%23004D98,%23A50044,%23EDBB00
+
+      # 2. Tạo game Galaga và Breakout arcade thay thế cho Pac-Man
+      - name: Generate Arcade Games (Galaga & Breakout)
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: 'galaga,breakout'
+          hide_month_labels: 'false'
 
       # 3. Đẩy toàn bộ các file SVG lên nhánh 'output'
       - name: Push SVGs to output branch
