@@ -171,15 +171,17 @@
       <a href="https://github.com/huanight19RaH"><b>Research Details ↗</b></a>
     </td>
     <td width="50%" valign="top">
-      <h4>💡 HybridLLIENet: Low-Light Image Enhancement</h4>
-      <p>Nghiên cứu tăng cường ảnh thiếu sáng bằng kỹ thuật hợp nhất prior độ sáng đa không gian màu (multi-space luminance prior fusion) trên mạng phục hồi U-Net. Khảo sát literature, tham gia viết bài báo và benchmark các mô hình trên LOL dataset với các metric PSNR, SSIM, LPIPS. Hợp nhất các luminance priors (LAB-L, HSV-V, YCbCr-Y) được tăng cường bằng CLAHE và gamma correction với đầu vào RGB.</p>
+      <h4>💡 HybridLLIENet: Multi-Space Luminance Prior Fusion for Low-Light Image Enhancement</h4>
+      <p><b>Vai trò: Đồng tác giả (Co-Author)</b> • Đã xuất bản tại kỷ yếu hội nghị quốc tế <i>MIWAI 2026 (International Conference on Multi-disciplinary Trends in Artificial Intelligence)</i>, Nhà xuất bản Springer.</p>
+      <p>Nghiên cứu tăng cường ảnh thiếu sáng bằng kỹ thuật hợp nhất prior độ sáng đa không gian màu (LAB-L, HSV-V, YCbCr-Y) kết hợp CLAHE và gamma correction trên mạng phục hồi U-Net. Đảm nhiệm vai trò đồng tác giả: tham gia khảo sát tài liệu liên quan, thảo luận định hướng thực nghiệm, viết bài báo và benchmark các mô hình trên tập dữ liệu LOL.</p>
       <p><b>Kết quả thực nghiệm:</b> Đạt <b>21.23 dB PSNR, 0.858 SSIM, 0.127 LPIPS</b> trên LOLv2-Real với mô hình tối ưu chỉ <b>8.04M tham số và 79.26 GFLOPs</b>.</p>
       <p>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-        <img src="https://img.shields.io/badge/Low_Light_Enhancement-EDBB00?style=flat-square" alt="LLIE" />
-        <img src="https://img.shields.io/badge/Paper-Accepted-10B981?style=flat-square" alt="Accepted" />
+        <img src="https://img.shields.io/badge/MIWAI_2026-Springer-004D98?style=flat-square" alt="Springer" />
+        <img src="https://img.shields.io/badge/Vai_trò-Đồng_tác_giả-A50044?style=flat-square" alt="Đồng tác giả" />
+        <img src="https://img.shields.io/badge/Trạng_thái-Đã_xuất_bản-10B981?style=flat-square" alt="Đã xuất bản" />
       </p>
-      <a href="https://github.com/huanight19RaH"><b>Research Details ↗</b></a>
+      <a href="https://link.springer.com/chapter/10.1007/978-981-92-6513-8_10" target="_blank"><b>Xem bài báo trên SpringerLink (DOI: 10.1007/978-981-92-6513-8_10) ↗</b></a>
     </td>
   </tr>
 </table>

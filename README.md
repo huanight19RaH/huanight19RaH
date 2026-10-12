@@ -171,15 +171,17 @@
       <a href="https://github.com/huanight19RaH"><b>Research Details ↗</b></a>
     </td>
     <td width="50%" valign="top">
-      <h4>💡 HybridLLIENet: Low-Light Image Enhancement</h4>
-      <p>Explored low-light image enhancement via multi-space luminance prior fusion (LAB-L, HSV-V, YCbCr-Y) boosted with CLAHE and gamma correction on a U-Net restoration network. Comprehensive benchmarking across LOL datasets evaluating PSNR, SSIM, and perceptual LPIPS metrics.</p>
+      <h4>💡 HybridLLIENet: Multi-Space Luminance Prior Fusion for Low-Light Image Enhancement</h4>
+      <p><b>Role: Co-Author</b> • Published in <i>International Conference on Multi-disciplinary Trends in Artificial Intelligence (MIWAI 2026)</i>, Springer.</p>
+      <p>Explored low-light image enhancement via multi-space luminance prior fusion (LAB-L, HSV-V, YCbCr-Y) boosted with CLAHE and gamma correction on a U-Net restoration network. Co-authored the study, contributed to literature review, experimental discussion, and benchmarking across LOL datasets.</p>
       <p><b>Empirical Results:</b> Reached <b>21.23 dB PSNR, 0.858 SSIM, 0.127 LPIPS</b> on LOLv2-Real with a lightweight footprint of only <b>8.04M parameters and 79.26 GFLOPs</b>.</p>
       <p>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-        <img src="https://img.shields.io/badge/Low_Light_Enhancement-EDBB00?style=flat-square" alt="LLIE" />
-        <img src="https://img.shields.io/badge/Paper-Accepted-10B981?style=flat-square" alt="Accepted" />
+        <img src="https://img.shields.io/badge/MIWAI_2026-Springer-004D98?style=flat-square" alt="Springer" />
+        <img src="https://img.shields.io/badge/Role-Co--Author-A50044?style=flat-square" alt="Co-Author" />
+        <img src="https://img.shields.io/badge/Paper-Published-10B981?style=flat-square" alt="Published" />
       </p>
-      <a href="https://github.com/huanight19RaH"><b>Research Details ↗</b></a>
+      <a href="https://link.springer.com/chapter/10.1007/978-981-92-6513-8_10" target="_blank"><b>SpringerLink Paper (DOI: 10.1007/978-981-92-6513-8_10) ↗</b></a>
     </td>
   </tr>
 </table>
