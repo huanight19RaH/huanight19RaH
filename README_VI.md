@@ -17,7 +17,7 @@
 
 <div align="center">
   <a href="https://github.com/huanight19RaH">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=EDBB00&center=true&vCenter=true&width=860&lines=Xin+ch%C3%A0o!+M%C3%ACnh+l%C3%A0+Nguy%E1%BB%85n+Th%C3%A1i+H%C6%B0ng;AI+Engineer+%26+Researcher+in+the+making;Ph%C3%B3+ch%E1%BB%A7+nhi%E1%BB%87m+CLB+C%C3%B4ng+ngh%E1%BB%87+FU-DEVER;Computer+Vision+%E2%80%A2+Image+Restoration+%E2%80%A2+Deep+Learning;M%C3%A9s+que+un+builder+%E2%80%A2+Passionate+about+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=EDBB00&center=true&vCenter=true&width=860&lines=Xin+ch%C3%A0o!+M%C3%ACnh+l%C3%A0+Nguy%E1%BB%85n+Th%C3%A1i+H%C6%B0ng;AI+Engineer+%26+Researcher+in+the+making;Ph%C3%B3+ch%E1%BB%A7+nhi%E1%BB%87m+CLB+L%E1%BA%ADp+tr%C3%ACnh+FU-DEVER;Computer+Vision+%E2%80%A2+Image+Restoration+%E2%80%A2+Deep+Learning;M%C3%A9s+que+un+builder+%E2%80%A2+Passionate+about+AI" alt="Typing SVG" />
   </a>
 </div>
 
@@ -56,10 +56,10 @@
 <table width="100%">
   <tr>
     <td width="70%" valign="top">
-      <p>Mình là sinh viên năm 3 chuyên ngành <b>Trí tuệ nhân tạo (AI)</b> tại <b>Đại học FPT Đà Nẵng</b>, đồng thời giữ vai trò <b>Phó Chủ nhiệm Câu lạc bộ Công nghệ FU-DEVER</b>. Hành trình của mình tập trung vào hai trụ cột song song: <b>Nghiên cứu Computer Vision / Image Restoration / ML Systems</b> và <b>kết nối, xây dựng cộng đồng sinh viên công nghệ</b>.</p>
+      <p>Mình là sinh viên năm 3 chuyên ngành <b>Trí tuệ nhân tạo (AI)</b> tại <b>Đại học FPT Đà Nẵng</b>, đồng thời giữ vai trò <b>Phó Chủ nhiệm Câu lạc bộ Lập trình FU-DEVER</b>. Hành trình của mình tập trung vào hai trụ cột song song: <b>Nghiên cứu Computer Vision / Image Restoration / ML Systems</b> và <b>kết nối, xây dựng cộng đồng sinh viên công nghệ</b>.</p>
       <ul>
         <li><b>Học tập &amp; Nghiên cứu:</b> Nghiên cứu chuyên sâu về <b>Underwater Image Restoration</b>, <b>Low-Light Image Enhancement (LLIE)</b> và <b>Physics-Informed Deep Learning</b>. Đã có <b>2 bài báo khoa học chính thức được accepted</b> (trong đó có 1 bài đã xuất bản tại kỷ yếu Springer MIWAI 2026 với vai trò Đồng tác giả) với kết quả benchmark thực tế và mã nguồn rõ ràng.</li>
-        <li><b>Lãnh đạo &amp; Hoạt động Xã hội:</b> Phó Chủ nhiệm <b>FU-DEVER Club</b> — đồng hành định hướng và tổ chức các hoạt động học thuật, chuỗi workshop chuyên môn và cuộc thi công nghệ tại FPTU Đà Nẵng; Media Lead dự án thiện nguyện <i>Bật Nụ Cười Lên (Sunshine Team)</i> hỗ trợ các em nhỏ tại Làng Hy Vọng.</li>
+        <li><b>Lãnh đạo &amp; Hoạt động Xã hội:</b> Phó Chủ nhiệm <b>CLB Lập trình FU-DEVER</b> — đồng hành định hướng và tổ chức các hoạt động học thuật, chuỗi workshop chuyên môn và cuộc thi công nghệ tại FPTU Đà Nẵng; Media Lead dự án thiện nguyện <i>Bật Nụ Cười Lên (Sunshine Team)</i> hỗ trợ các em nhỏ tại Làng Hy Vọng.</li>
         <li><b>Sở thích &amp; Đời sống:</b> Fan trung thành của <b>FC Barcelona (Blaugrana)</b>; đam mê bóng đá, bơi lội, đọc sách, nghe nhạc và chơi game để rèn luyện tư duy linh hoạt; sở hữu chứng chỉ tiếng Anh <b>IELTS 6.0</b> (2024).</li>
       </ul>
       <p>

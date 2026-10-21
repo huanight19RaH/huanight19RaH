@@ -17,7 +17,7 @@
 
 <div align="center">
   <a href="https://github.com/huanight19RaH">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=EDBB00&center=true&vCenter=true&width=860&lines=Hello!+I'm+Thai+Hung+Nguyen;AI+Engineer+%26+Researcher+in+the+making;Vice+President+@+FU-DEVER+Tech+Club;Computer+Vision+%E2%80%A2+Image+Restoration+%E2%80%A2+Deep+Learning;M%C3%A9s+que+un+builder+%E2%80%A2+FC+Barcelona+Fan" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=EDBB00&center=true&vCenter=true&width=860&lines=Hello!+I'm+Thai+Hung+Nguyen;AI+Engineer+%26+Researcher+in+the+making;Vice+President+@+FU-DEVER+Coding+Club;Computer+Vision+%E2%80%A2+Image+Restoration+%E2%80%A2+Deep+Learning;M%C3%A9s+que+un+builder+%E2%80%A2+FC+Barcelona+Fan" alt="Typing SVG" />
   </a>
 </div>
 
@@ -56,7 +56,7 @@
 <table width="100%">
   <tr>
     <td width="70%" valign="top">
-      <p>I am a 3rd-year <b>Artificial Intelligence (AI)</b> undergraduate student at <b>FPT University Da Nang</b>, currently serving as the <b>Vice President of FU-DEVER Technology Club</b>. My trajectory centers on two synergistic pillars: <b>rigorous Computer Vision / Image Restoration / ML Systems research</b> and <b>community leadership</b>.</p>
+      <p>I am a 3rd-year <b>Artificial Intelligence (AI)</b> undergraduate student at <b>FPT University Da Nang</b>, currently serving as the <b>Vice President of FU-DEVER Coding Club</b>. My trajectory centers on two synergistic pillars: <b>rigorous Computer Vision / Image Restoration / ML Systems research</b> and <b>community leadership</b>.</p>
       <ul>
         <li><b>Academic &amp; Research:</b> Specializing in <b>Underwater Image Restoration</b>, <b>Low-Light Image Enhancement (LLIE)</b>, and <b>Physics-Informed Deep Learning</b>. Authored <b>2 peer-reviewed conference papers</b> (including 1 published in Springer MIWAI 2026 as Co-Author) with reproducible benchmarks, solid metrics, and open-source implementations.</li>
         <li><b>Leadership &amp; Community:</b> Vice President of <b>FU-DEVER Club</b> — co-organizing academic workshops, hackathons, and technical mentorships; Media Lead for the <i>Sunshine Team ("Bật Nụ Cười Lên")</i> charity project supporting underprivileged children at Da Nang Hope Village.</li>
