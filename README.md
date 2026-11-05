@@ -3,7 +3,7 @@
 # Thai Hung Nguyen
 
 **AI Engineer & Computer Vision Researcher**  
-Vice President @ FU-DEVER Coding Club • FPT University Da Nang  
+Former Vice President @ FU-DEVER Coding Club • FPT University Da Nang  
 Da Nang, Vietnam
 
 [English](README.md) • [Tiếng Việt](README_VI.md)
@@ -18,10 +18,11 @@ Da Nang, Vietnam
 
 ## Overview
 
-I am a 3rd-year **Artificial Intelligence (AI)** undergraduate student at **FPT University Da Nang** and currently serve as the **Vice President of FU-DEVER Coding Club**. My trajectory integrates empirical **Computer Vision**, **Image Restoration**, and scalable **Machine Learning Systems** with academic leadership.
+I am a 3rd-year **Artificial Intelligence (AI)** undergraduate student at **FPT University Da Nang** and **Former Vice President of FU-DEVER Coding Club**. My trajectory integrates empirical **Computer Vision**, **Image Restoration**, and scalable **Machine Learning Systems** with academic leadership.
 
 - **Research:** Focused on Physics-Informed Deep Learning, Underwater Image Restoration, and Low-Light Image Enhancement (LLIE). Co-authored 1 conference paper published in **Springer MIWAI 2026** and authored 1 accepted paper on underwater restoration.
-- **Leadership & Community:** Leading academic workshops, hackathons, and mentorship programs at FU-DEVER; former Media Lead for the Sunshine Team charity initiative.
+- **Industry Experience:** AI Developer Intern at **FPT Information System (FIS) R&D** (IDA Department), developing real-time computer vision streaming pipelines for Kamoi Vision AI (AICC).
+- **Leadership & Community:** Former Vice President of **FU-DEVER Coding Club** (01/2026 – 10/2026), having organized academic workshops, hackathons, and technical mentorship; former Media Lead for the Sunshine Team charity initiative.
 - **Certifications:** IELTS 6.0 (2024).
 
 ---
@@ -65,7 +66,7 @@ I am a 3rd-year **Artificial Intelligence (AI)** undergraduate student at **FPT 
 | :--- | :--- |
 | **Deep Learning & Computer Vision** | PyTorch, TensorFlow, OpenCV, scikit-learn, U-Net, YOLO, ByteTrack, Physics-Informed DL |
 | **Languages & Systems** | Python, C/C++, SQL, FastAPI, Next.js, NumPy, pandas |
-| **Infrastructure & Tools** | Docker, Linux (Ubuntu), Git, GitHub, PostgreSQL, Qdrant, Redis, Jira |
+| **Infrastructure & Tools** | Docker, Linux (Ubuntu), Git, GitHub, PostgreSQL, Qdrant, Redis, Jira, Supabase |
 
 ---
 

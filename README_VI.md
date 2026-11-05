@@ -3,7 +3,7 @@
 # Nguyễn Thái Hưng
 
 **Kỹ sư AI & Nhà nghiên cứu Thị giác Máy tính (Computer Vision)**  
-Phó Chủ nhiệm CLB Lập trình FU-DEVER • Đại học FPT Đà Nẵng  
+Cựu Phó Chủ nhiệm CLB Lập trình FU-DEVER • Đại học FPT Đà Nẵng  
 Đà Nẵng, Việt Nam
 
 [English](README.md) • [Tiếng Việt](README_VI.md)
@@ -18,10 +18,11 @@ Phó Chủ nhiệm CLB Lập trình FU-DEVER • Đại học FPT Đà Nẵng
 
 ## Tổng Quan
 
-Mình là sinh viên năm 3 chuyên ngành **Trí tuệ nhân tạo (AI)** tại **Đại học FPT Đà Nẵng**, đồng thời giữ vai trò **Phó Chủ nhiệm Câu lạc bộ Lập trình FU-DEVER**. Định hướng phát triển của mình tập trung vào nghiên cứu thực nghiệm **Computer Vision**, **Image Restoration** và xây dựng các hệ thống **Machine Learning Systems** kết hợp hoạt động học thuật cộng đồng.
+Mình là sinh viên năm 3 chuyên ngành **Trí tuệ nhân tạo (AI)** tại **Đại học FPT Đà Nẵng**, nguyên **Phó Chủ nhiệm Câu lạc bộ Lập trình FU-DEVER**. Định hướng phát triển của mình tập trung vào nghiên cứu thực nghiệm **Computer Vision**, **Image Restoration** và xây dựng các hệ thống **Machine Learning Systems** kết hợp hoạt động học thuật cộng đồng.
 
 - **Nghiên cứu khoa học:** Chuyên sâu về Physics-Informed Deep Learning, Underwater Image Restoration và Low-Light Image Enhancement (LLIE). Đã có 1 bài báo xuất bản tại kỷ yếu hội nghị quốc tế **Springer MIWAI 2026** (Đồng tác giả) và 1 bài báo về phục hồi ảnh dưới nước đã accepted.
-- **Cộng đồng & Lãnh đạo:** Điều phối tổ chức các hội thảo chuyên môn, cuộc thi lập trình và chương trình cố vấn kỹ thuật tại FU-DEVER; nguyên Trưởng ban Truyền thông dự án thiện nguyện Bật Nụ Cười Lên (Sunshine Team).
+- **Kinh nghiệm thực tế:** AI Developer Intern tại **Khối Nghiên cứu & Phát triển FPT Information System (FIS R&D)** - Bộ phận IDA, phát triển pipeline streaming thị giác máy tính thời gian thực cho giải pháp Kamoi Vision AI (AICC).
+- **Cộng đồng & Lãnh đạo:** Nguyên Phó Chủ nhiệm **CLB Lập trình FU-DEVER** (nhiệm kỳ 01/2026 – 10/2026), điều phối tổ chức các hội thảo chuyên môn, cuộc thi lập trình và chương trình cố vấn kỹ thuật; nguyên Trưởng ban Truyền thông dự án thiện nguyện Bật Nụ Cười Lên (Sunshine Team).
 - **Chứng chỉ ngoại ngữ:** IELTS 6.0 (2024).
 
 ---
@@ -65,7 +66,7 @@ Mình là sinh viên năm 3 chuyên ngành **Trí tuệ nhân tạo (AI)** tại
 | :--- | :--- |
 | **Deep Learning & Computer Vision** | PyTorch, TensorFlow, OpenCV, scikit-learn, U-Net, YOLO, ByteTrack, Physics-Informed DL |
 | **Ngôn ngữ & Hệ thống Backend** | Python, C/C++, SQL, FastAPI, Next.js, NumPy, pandas |
-| **Hạ tầng & Công cụ phát triển** | Docker, Linux (Ubuntu), Git, GitHub, PostgreSQL, Qdrant, Redis, Jira |
+| **Hạ tầng & Công cụ phát triển** | Docker, Linux (Ubuntu), Git, GitHub, PostgreSQL, Qdrant, Redis, Jira, Supabase |
 
 ---
 
