@@ -18,23 +18,11 @@ Da Nang, Vietnam
 
 ## Overview
 
-<table>
-  <tr>
-    <td width="78%" valign="top">
-      <p>I am a 3rd-year <b>Artificial Intelligence (AI)</b> undergraduate student at <b>FPT University Da Nang</b> and currently serve as the <b>Vice President of FU-DEVER Coding Club</b>. My trajectory integrates empirical <b>Computer Vision</b>, <b>Image Restoration</b>, and scalable <b>Machine Learning Systems</b> with academic leadership.</p>
-      <ul>
-        <li><b>Research:</b> Focused on Physics-Informed Deep Learning, Underwater Image Restoration, and Low-Light Image Enhancement (LLIE). Co-authored 1 conference paper published in <b>Springer MIWAI 2026</b> and authored 1 accepted paper on underwater restoration.</li>
-        <li><b>Leadership &amp; Community:</b> Leading academic workshops, hackathons, and mentorship programs at FU-DEVER; former Media Lead for the Sunshine Team charity initiative.</li>
-        <li><b>Certifications:</b> IELTS 6.0 (2024).</li>
-      </ul>
-    </td>
-    <td width="22%" align="center" valign="middle">
-      <img src="assets/avatar.png" width="140" alt="Thai Hung Nguyen" />
-      <br/>
-      <sub><b>Thai Hung Nguyen</b></sub>
-    </td>
-  </tr>
-</table>
+I am a 3rd-year **Artificial Intelligence (AI)** undergraduate student at **FPT University Da Nang** and currently serve as the **Vice President of FU-DEVER Coding Club**. My trajectory integrates empirical **Computer Vision**, **Image Restoration**, and scalable **Machine Learning Systems** with academic leadership.
+
+- **Research:** Focused on Physics-Informed Deep Learning, Underwater Image Restoration, and Low-Light Image Enhancement (LLIE). Co-authored 1 conference paper published in **Springer MIWAI 2026** and authored 1 accepted paper on underwater restoration.
+- **Leadership & Community:** Leading academic workshops, hackathons, and mentorship programs at FU-DEVER; former Media Lead for the Sunshine Team charity initiative.
+- **Certifications:** IELTS 6.0 (2024).
 
 ---
 
@@ -89,16 +77,6 @@ Da Nang, Vietnam
   *Annual competitive programming hackathon focusing on algorithms and data structures.*
 - **Consolation Prize** — Da Nang City Excellent Student Contest in Mathematics (January 2024)  
   *Awarded by the Da Nang Department of Education and Training.*
-
----
-
-## Problem Solving & Activity
-
-<div align="center">
-  <a href="https://leetcode.com/u/HungNguyen192/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/HungNguyen192?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats: HungNguyen192" />
-  </a>
-</div>
 
 ---
 

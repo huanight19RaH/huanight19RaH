@@ -18,23 +18,11 @@ Phó Chủ nhiệm CLB Lập trình FU-DEVER • Đại học FPT Đà Nẵng
 
 ## Tổng Quan
 
-<table>
-  <tr>
-    <td width="78%" valign="top">
-      <p>Mình là sinh viên năm 3 chuyên ngành <b>Trí tuệ nhân tạo (AI)</b> tại <b>Đại học FPT Đà Nẵng</b>, đồng thời giữ vai trò <b>Phó Chủ nhiệm Câu lạc bộ Lập trình FU-DEVER</b>. Định hướng phát triển của mình tập trung vào nghiên cứu thực nghiệm <b>Computer Vision</b>, <b>Image Restoration</b> và xây dựng các hệ thống <b>Machine Learning Systems</b> kết hợp hoạt động học thuật cộng đồng.</p>
-      <ul>
-        <li><b>Nghiên cứu khoa học:</b> Chuyên sâu về Physics-Informed Deep Learning, Underwater Image Restoration và Low-Light Image Enhancement (LLIE). Đã có 1 bài báo xuất bản tại kỷ yếu hội nghị quốc tế <b>Springer MIWAI 2026</b> (Đồng tác giả) và 1 bài báo về phục hồi ảnh dưới nước đã accepted.</li>
-        <li><b>Cộng đồng &amp; Lãnh đạo:</b> Điều phối tổ chức các hội thảo chuyên môn, cuộc thi lập trình và chương trình cố vấn kỹ thuật tại FU-DEVER; nguyên Trưởng ban Truyền thông dự án thiện nguyện Bật Nụ Cười Lên (Sunshine Team).</li>
-        <li><b>Chứng chỉ ngoại ngữ:</b> IELTS 6.0 (2024).</li>
-      </ul>
-    </td>
-    <td width="22%" align="center" valign="middle">
-      <img src="assets/avatar.png" width="140" alt="Nguyễn Thái Hưng" />
-      <br/>
-      <sub><b>Nguyễn Thái Hưng</b></sub>
-    </td>
-  </tr>
-</table>
+Mình là sinh viên năm 3 chuyên ngành **Trí tuệ nhân tạo (AI)** tại **Đại học FPT Đà Nẵng**, đồng thời giữ vai trò **Phó Chủ nhiệm Câu lạc bộ Lập trình FU-DEVER**. Định hướng phát triển của mình tập trung vào nghiên cứu thực nghiệm **Computer Vision**, **Image Restoration** và xây dựng các hệ thống **Machine Learning Systems** kết hợp hoạt động học thuật cộng đồng.
+
+- **Nghiên cứu khoa học:** Chuyên sâu về Physics-Informed Deep Learning, Underwater Image Restoration và Low-Light Image Enhancement (LLIE). Đã có 1 bài báo xuất bản tại kỷ yếu hội nghị quốc tế **Springer MIWAI 2026** (Đồng tác giả) và 1 bài báo về phục hồi ảnh dưới nước đã accepted.
+- **Cộng đồng & Lãnh đạo:** Điều phối tổ chức các hội thảo chuyên môn, cuộc thi lập trình và chương trình cố vấn kỹ thuật tại FU-DEVER; nguyên Trưởng ban Truyền thông dự án thiện nguyện Bật Nụ Cười Lên (Sunshine Team).
+- **Chứng chỉ ngoại ngữ:** IELTS 6.0 (2024).
 
 ---
 
@@ -89,16 +77,6 @@ Phó Chủ nhiệm CLB Lập trình FU-DEVER • Đại học FPT Đà Nẵng
   *Cuộc thi lập trình thuật toán và cấu trúc dữ liệu thường niên.*
 - **Giải Khuyến Khích môn Toán** — Kỳ thi Học sinh Giỏi cấp Thành phố Đà Nẵng (Tháng 1/2024)  
   *Khen tặng bởi Sở Giáo dục và Đào tạo Thành phố Đà Nẵng.*
-
----
-
-## Luyện Tập Thuật Toán & Hoạt Động
-
-<div align="center">
-  <a href="https://leetcode.com/u/HungNguyen192/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/HungNguyen192?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats: HungNguyen192" />
-  </a>
-</div>
 
 ---
 
