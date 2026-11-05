@@ -1,53 +1,36 @@
-﻿# 🚀 Hướng Dẫn Đưa Profile README Lên GitHub
+# Huong Dan Dua Profile README Len GitHub
 
-Tài liệu này hướng dẫn cách cấu hình và đẩy hồ sơ cá nhân lên repository đặc biệt của GitHub để hiển thị ngay trên trang cá nhân (https://github.com/<username>).
-
----
-
-## 1. Yêu cầu tiên quyết
-- Tài khoản GitHub: **quangnhat1504** (hoặc username của bạn).
-- Tạo một repository công khai (Public) có tên **trùng khớp 100% với username của bạn** (Ví dụ: quangnhat1504/quangnhat1504).
+Tai lieu nay huong dan cach cau hinh va day ho so ca nhan len repository dac biet cua GitHub de hien thi tren trang ca nhan (https://github.com/huanight19RaH).
 
 ---
 
-## 2. Các bước khởi tạo và Push lên GitHub
+## 1. Yeu cau tien quyet
+- Tai khoan GitHub: **huanight19RaH**.
+- Repository cong khai (Public): **huanight19RaH/huanight19RaH**.
 
-Mở Terminal (PowerShell hoặc Git Bash) tại thư mục D:\THStudy\personal\github-profile và chạy lần lượt các lệnh sau:
+---
 
-`ash
-# Di chuyển vào thư mục profile
-cd D:\THStudy\personal\github-profile
+## 2. Cac buoc cap nhat va Day len GitHub
 
-# Khởi tạo git repo nếu chưa có
-git init -b main
+Mo Terminal (PowerShell hoac Git Bash) tai thu muc `D:\THStudy\personal\github-profile` va chay cac lenh sau:
 
-# Thêm remote tới repo GitHub của bạn
-git remote add origin https://github.com/quangnhat1504/quangnhat1504.git
+```bash
+# Kiem tra trang thai thay doi
+git status
 
-# Thêm toàn bộ file và commit
+# Them toan bo cac thay doi
 git add .
-git commit -m "feat(profile): setup modern cyberpunk github profile readme"
 
-# Đẩy lên GitHub
-git push -u origin main --force
-`
+# Tao commit
+git commit -m "docs: streamline profile readme, eliminate noisy visuals, and simplify layout"
 
----
-
-## 3. Cấu hình cấp quyền cho GitHub Actions (Tự động vẽ Pac-Man Contribution Graph)
-
-Để biểu đồ **Pac-Man Contribution Graph** tự động sinh ra và cập nhật hằng ngày, bạn cần cấp quyền ghi (Write permission) cho GitHub Actions:
-
-1. Truy cập vào repository trên trình duyệt:  
-   https://github.com/quangnhat1504/quangnhat1504/settings/actions
-2. Cuộn xuống mục **Workflow permissions**.
-3. Chọn tùy chọn: **Read and write permissions**.
-4. Tích chọn ô: **Allow GitHub Actions to create and approve pull requests**.
-5. Nhấn **Save**.
-6. Sang tab **Actions** trên repo, chọn workflow Generate Arcade Games & Contribution Graphs và bấm nút **Run workflow** để chạy thử ngay lần đầu tiên.
+# Day len GitHub
+git push origin main
+```
 
 ---
 
-## 4. Tùy chỉnh thông tin nếu cần
-- **Ảnh đại diện:** Được lấy tự động từ https://github.com/quangnhat1504.png. Nếu muốn dùng ảnh offline, bạn có thể lưu ảnh vào ssets/avatar.png và cập nhật đường dẫn tương đối trong README.md.
-- **Liên kết mạng xã hội:** Các liên kết LinkedIn, Facebook, Email đã được cấu hình chuẩn theo thông tin của bạn.
+## 3. Thong tin bo cuc da toi uu
+- Giao dien toi gian, tap trung vao nghien cuu khoa hoc (2 bai bao khoa hoc accepted va xuat ban tai Springer MIWAI 2026) va du an he thong thi giac may tinh.
+- Loai bo cac banner chuyen dong phuc tap, cac badge mau me va bieu do game khong can thiet.
+- Dong bo day du giua hai phien ban ngon ngu: Tieng Anh (README.md) va Tieng Viet (README_VI.md).

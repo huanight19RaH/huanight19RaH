@@ -1,250 +1,98 @@
-<!-- ========================= HERO / BLAUGRANA HEADER ========================= -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004D98,50:A50044,100:EDBB00&height=230&section=header&text=Thai%20Hung%20Nguyen&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20•%20FU-DEVER%20Vice%20President%20•%20Computer%20Vision%20Researcher&descSize=17&descAlignY=58" width="100%" alt="Header Banner" />
-</div>
-
-<!-- LANGUAGE SWITCHER -->
-<div align="center">
-  <a href="README.md">
-    <img src="https://img.shields.io/badge/Language-English-EDBB00?style=for-the-badge&logoColor=white&labelColor=0A1224" alt="English (Active)" />
-  </a>
-  <a href="README_VI.md">
-    <img src="https://img.shields.io/badge/Ngôn_ngữ-Tiếng_Việt-004D98?style=for-the-badge&logoColor=white&labelColor=0A1224" alt="Tiếng Việt" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/huanight19RaH">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=EDBB00&center=true&vCenter=true&width=860&lines=Hello!+I'm+Thai+Hung+Nguyen;AI+Engineer+%26+Researcher+in+the+making;Vice+President+@+FU-DEVER+Coding+Club;Computer+Vision+%E2%80%A2+Image+Restoration+%E2%80%A2+Deep+Learning;M%C3%A9s+que+un+builder+%E2%80%A2+FC+Barcelona+Fan" alt="Typing SVG" />
-  </a>
-</div>
-
-<!-- FC Barcelona Blaugrana Badges -->
-<div align="center">
-  <a href="https://github.com/huanight19RaH?tab=followers">
-    <img src="https://img.shields.io/github/followers/huanight19RaH?label=Followers&style=for-the-badge&color=004D98&labelColor=0A1224&logo=github&logoColor=white" alt="Followers" />
-  </a>
-  <a href="https://github.com/huanight19RaH?tab=repositories">
-    <img src="https://img.shields.io/badge/Focus-CV%20%7C%20Image%20Restoration%20%7C%20ML%20Systems-A50044?style=for-the-badge&labelColor=0A1224&logoColor=white" alt="Focus" />
-  </a>
-  <a href="#verified-projects">
-    <img src="https://img.shields.io/badge/Research-2%20Accepted%20Papers-EDBB00?style=for-the-badge&labelColor=0A1224&color=EDBB00&logo=academia&logoColor=EDBB00" alt="Research Papers" />
-  </a>
-  <a href="https://github.com/huanight19RaH">
-    <img src="https://img.shields.io/badge/Based%20in-Da%20Nang,%20VN-004D98?style=for-the-badge&labelColor=0A1224&logo=googlemaps&logoColor=white" alt="Location" />
-  </a>
-</div>
-
-<br/>
-
-<!-- ========================= PHILOSOPHY ========================= -->
 <div align="center">
 
-> *"As for the future, your task is not to foresee it, but to enable it."*
->
-> — **Antoine de Saint-Exupéry**, *Citadelle* (1948)
+# Thai Hung Nguyen
+
+**AI Engineer & Computer Vision Researcher**  
+Vice President @ FU-DEVER Coding Club • FPT University Da Nang  
+Da Nang, Vietnam
+
+[English](README.md) • [Tiếng Việt](README_VI.md)
+
+---
+
+[Curriculum Vitae (PDF)](assets/Thai_Hung_Nguyen_CV.pdf) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/thai-hung-nguyen-000b24356/) &nbsp;|&nbsp; [GitHub](https://github.com/huanight19RaH) &nbsp;|&nbsp; [LeetCode](https://leetcode.com/u/HungNguyen192/) &nbsp;|&nbsp; [Email](mailto:hungnguyen.190206@gmail.com)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:004D98,50:A50044,100:EDBB00&height=3&width=100%&section=header" width="100%" alt="divider" />
+---
 
-<!-- ========================= ABOUT ME ========================= -->
-## About Me
+## Overview
 
-<table width="100%">
+<table>
   <tr>
-    <td width="70%" valign="top">
-      <p>I am a 3rd-year <b>Artificial Intelligence (AI)</b> undergraduate student at <b>FPT University Da Nang</b>, currently serving as the <b>Vice President of FU-DEVER Coding Club</b>. My trajectory centers on two synergistic pillars: <b>rigorous Computer Vision / Image Restoration / ML Systems research</b> and <b>community leadership</b>.</p>
+    <td width="78%" valign="top">
+      <p>I am a 3rd-year <b>Artificial Intelligence (AI)</b> undergraduate student at <b>FPT University Da Nang</b> and currently serve as the <b>Vice President of FU-DEVER Coding Club</b>. My trajectory integrates empirical <b>Computer Vision</b>, <b>Image Restoration</b>, and scalable <b>Machine Learning Systems</b> with academic leadership.</p>
       <ul>
-        <li><b>Academic &amp; Research:</b> Specializing in <b>Underwater Image Restoration</b>, <b>Low-Light Image Enhancement (LLIE)</b>, and <b>Physics-Informed Deep Learning</b>. Authored <b>2 peer-reviewed conference papers</b> (including 1 published in Springer MIWAI 2026 as Co-Author) with reproducible benchmarks, solid metrics, and open-source implementations.</li>
-        <li><b>Leadership &amp; Community:</b> Vice President of <b>FU-DEVER Club</b> — co-organizing academic workshops, hackathons, and technical mentorships; Media Lead for the <i>Sunshine Team ("Bật Nụ Cười Lên")</i> charity project supporting underprivileged children at Da Nang Hope Village.</li>
-        <li><b>Lifestyle &amp; Interests:</b> Passionate <b>FC Barcelona fan (Blaugrana)</b>; enjoy football, swimming, reading, music, and strategic gaming; certified <b>IELTS 6.0</b> (2024).</li>
+        <li><b>Research:</b> Focused on Physics-Informed Deep Learning, Underwater Image Restoration, and Low-Light Image Enhancement (LLIE). Co-authored 1 conference paper published in <b>Springer MIWAI 2026</b> and authored 1 accepted paper on underwater restoration.</li>
+        <li><b>Leadership &amp; Community:</b> Leading academic workshops, hackathons, and mentorship programs at FU-DEVER; former Media Lead for the Sunshine Team charity initiative.</li>
+        <li><b>Certifications:</b> IELTS 6.0 (2024).</li>
       </ul>
-      <p>
-        <a href="assets/Thai_Hung_Nguyen_CV.pdf"><img src="https://img.shields.io/badge/Curriculum_Vitae-Download_PDF-004D98?style=flat-square&labelColor=0A1224" alt="CV" /></a>
-        <img src="https://img.shields.io/badge/Research-2_Papers-A50044?style=flat-square&labelColor=0A1224" alt="Researching" />
-        <img src="https://img.shields.io/badge/English-IELTS_6.0-EDBB00?style=flat-square&labelColor=0A1224" alt="IELTS" />
-      </p>
     </td>
-    <td width="30%" valign="middle" align="center">
-      <img src="assets/avatar.png" width="190" style="border-radius:16px; border: 2px solid #A50044;" alt="Thai Hung Nguyen" />
+    <td width="22%" align="center" valign="middle">
+      <img src="assets/avatar.png" width="140" alt="Thai Hung Nguyen" />
       <br/>
-      <sub><i>Thai Hung Nguyen • AI Engineer &amp; Researcher</i></sub>
+      <sub><b>Thai Hung Nguyen</b></sub>
     </td>
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:004D98,50:A50044,100:EDBB00&height=3&width=100%&section=header" width="100%" alt="divider" />
+---
 
-<!-- ========================= HONORS & AWARDS ========================= -->
-## Honors &amp; Awards
+## Publications & Academic Research
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Consolation Prize</h4>
-      <p><b>Research Festival 2026 / Research Connect</b> — FPT University Da Nang (May 2026)</p>
-      <p>Honored by the scientific committee for high-impact applied AI and Computer Vision image restoration research.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>Second Prize</h4>
-      <p><b>Code Mosaic 2025 Programming Hackathon</b> — FPT University Da Nang (Oct 2025)</p>
-      <p>Annual competitive programming hackathon focused on Data Structures, Algorithms, and problem solving.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Consolation Prize (City Math Contest)</h4>
-      <p><b>Da Nang City Excellent Student Contest in Mathematics</b> (Jan 2024)</p>
-      <p>Awarded by the Da Nang Department of Education and Training in advanced mathematics.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>2 Peer-Reviewed Conference Papers</h4>
-      <p><b>Underwater Image Restoration &amp; Low-Light Image Enhancement (MIWAI 2026, Springer)</b></p>
-      <p>Co-authored HybridLLIENet published in Springer MIWAI 2026; physics-informed underwater restoration paper accepted.</p>
-    </td>
-  </tr>
-</table>
+### 1. HybridLLIENet: Multi-Space Luminance Prior Fusion for Low-Light Image Enhancement
+- **Venue:** International Conference on Multi-disciplinary Trends in Artificial Intelligence (MIWAI 2026), **Springer**
+- **Role:** Co-Author
+- **Methodology:** Explored low-light image restoration using multi-space luminance prior fusion (LAB-L, HSV-V, YCbCr-Y) boosted with CLAHE and gamma correction on a U-Net backbone. Contributed to literature review, experimental discussion, and benchmarking across LOL datasets.
+- **Empirical Results:** Achieved **21.23 dB PSNR**, **0.858 SSIM**, and **0.127 LPIPS** on LOLv2-Real with a lightweight footprint of **8.04M parameters and 79.26 GFLOPs**.
+- **Links:** [Paper (Springer Link)](https://link.springer.com/chapter/10.1007/978-981-92-6513-8_10) &nbsp;|&nbsp; [Repository](https://github.com/huanight19RaH)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:004D98,50:A50044,100:EDBB00&height=3&width=100%&section=header" width="100%" alt="divider" />
+### 2. Assessing Physics-Informed Priors in Underwater Image Restoration
+- **Status:** Accepted Conference Paper
+- **Role:** Author
+- **Methodology:** Formulated transmission map *t(x)* and backscatter map *B(x)* as auxiliary physical channels in customized U-Net architectures, evaluating RGB, RGB + *t(x)*, RGB + *B(x)*, and RGB + *t(x)* + *B(x)* configurations.
+- **Empirical Results:** Attained **21.012 dB PSNR / 0.884 SSIM** on UIEB T90 and **26.644 dB PSNR / 0.873 SSIM** on EUVP-Test with the 5-channel model.
+- **Links:** [Repository](https://github.com/heniath/underwater-image-enhancement)
 
-<!-- ========================= TECH STACK ========================= -->
-## Tech Stack &amp; Tools
+---
 
-<div align="center">
+## Featured Engineering Projects
 
-**Deep Learning, Computer Vision &amp; AI Research**
+### Traffic Flow Detection — Video-Based Analytics Platform
+- **Scope:** End-to-end traffic analytics platform supporting multi-class vehicle detection, tracking, lane assignment, and directional tripwire counting. Architected video ingestion and frontend workflows: ROI lane configuration, real-time analytics streaming, and interactive dashboards.
+- **Tech Stack:** Python, FastAPI, YOLO, ByteTrack, OpenCV, React
+- **Benchmark:** Achieved **Event F1: 0.942, WAPE: 5.04%** on UA-DETRAC test sets; batch throughput of **75.8 FPS** (3.03x real-time) and livestreaming at **14.9 FPS** with zero frame drop.
+- **Links:** [Repository](https://github.com/monsierpotato/Traffic-Flow)
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/U--Net-004D98?style=for-the-badge" alt="U-Net" />
-<img src="https://img.shields.io/badge/Physics--Informed_DL-A50044?style=for-the-badge" alt="Physics-Informed DL" />
-<img src="https://img.shields.io/badge/YOLO_%26_ByteTrack-EDBB00?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO" />
+### ScholarSummar — RAG-Based Research Assistant
+- **Scope:** Intelligent scientific assistant supporting academic PDF ingestion, hybrid lexical-dense search, and conversational document Q&A. Engineered RAG pipeline stages (chunking, embedding, semantic retrieval), frontend interfaces, backend integration tests, and Docker deployment.
+- **Tech Stack:** Next.js, FastAPI, PostgreSQL (pgvector), Qdrant, Redis, MinIO, Docker
+- **Links:** [Repository](https://github.com/quangnhat1504/SchoolSummar)
 
-**Languages, Data &amp; Web**
+---
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C/C++" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+## Technical Skills
 
-**Tools, Platforms &amp; Automation**
+| Area | Technologies |
+| :--- | :--- |
+| **Deep Learning & Computer Vision** | PyTorch, TensorFlow, OpenCV, scikit-learn, U-Net, YOLO, ByteTrack, Physics-Informed DL |
+| **Languages & Systems** | Python, C/C++, SQL, FastAPI, Next.js, NumPy, pandas |
+| **Infrastructure & Tools** | Docker, Linux (Ubuntu), Git, GitHub, PostgreSQL, Qdrant, Redis, Jira |
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Linux_/_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Linux" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-<img src="https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+---
 
-</div>
+## Honors & Awards
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:004D98,50:A50044,100:EDBB00&height=3&width=100%&section=header" width="100%" alt="divider" />
+- **Consolation Prize** — Research Festival 2026 / Research Connect, FPT University Da Nang (May 2026)  
+  *Honored for applied computer vision and image restoration research.*
+- **Second Prize** — Code Mosaic 2025 Programming Hackathon, FPT University Da Nang (October 2025)  
+  *Annual competitive programming hackathon focusing on algorithms and data structures.*
+- **Consolation Prize** — Da Nang City Excellent Student Contest in Mathematics (January 2024)  
+  *Awarded by the Da Nang Department of Education and Training.*
 
-<!-- ========================= PROJECTS ========================= -->
-## Verified Projects
+---
 
-<!-- ----- Group 1: AI / Computer Vision Research (2 Papers) ----- -->
-<div align="center">
-  <img src="https://img.shields.io/badge/AI_•_Computer_Vision_Research_(2_Papers)-A50044?style=for-the-badge&labelColor=0A1224" alt="AI/CV Research" />
-</div>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Assessing Physics-Informed Priors in Underwater Image Restoration</h4>
-      <p>Investigated physical priors for underwater image restoration using customized U-Net architectures. Formulated transmission map <i>t(x)</i> and backscatter map <i>B(x)</i> as auxiliary channels grounded in underwater optical formulation; evaluated RGB, RGB + <i>t(x)</i>, RGB + <i>B(x)</i>, and RGB + <i>t(x)</i> + <i>B(x)</i> configurations.</p>
-      <p><b>Empirical Results:</b> Achieved <b>21.012 dB PSNR / 0.884 SSIM</b> on UIEB T90 and <b>26.644 dB PSNR / 0.873 SSIM</b> on EUVP-Test with the 5-channel model.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-        <img src="https://img.shields.io/badge/Computer_Vision-004D98?style=flat-square" alt="CV" />
-        <img src="https://img.shields.io/badge/Paper-Accepted-10B981?style=flat-square" alt="Accepted" />
-      </p>
-      <a href="https://github.com/heniath/underwater-image-enhancement" target="_blank"><b>Repo ↗</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>HybridLLIENet: Multi-Space Luminance Prior Fusion</h4>
-      <p><b>Role: Co-Author</b> • Published in <i>International Conference on Multi-disciplinary Trends in Artificial Intelligence (MIWAI 2026)</i>, Springer.</p>
-      <p>Explored low-light image enhancement via multi-space luminance prior fusion (LAB-L, HSV-V, YCbCr-Y) boosted with CLAHE and gamma correction on a U-Net restoration network. Co-authored the study, contributed to literature review, experimental discussion, and benchmarking across LOL datasets.</p>
-      <p><b>Empirical Results:</b> Reached <b>21.23 dB PSNR, 0.858 SSIM, 0.127 LPIPS</b> on LOLv2-Real with a lightweight footprint of only <b>8.04M parameters and 79.26 GFLOPs</b>.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-        <img src="https://img.shields.io/badge/MIWAI_2026-Springer-004D98?style=flat-square" alt="Springer" />
-        <img src="https://img.shields.io/badge/Role-Co--Author-A50044?style=flat-square" alt="Co-Author" />
-        <img src="https://img.shields.io/badge/Paper-Published-10B981?style=flat-square" alt="Published" />
-      </p>
-      <a href="https://github.com/huanight19RaH" target="_blank"><b>Repo ↗</b></a> &nbsp;|&nbsp; <a href="https://link.springer.com/chapter/10.1007/978-981-92-6513-8_10" target="_blank"><b>Paper (Springer) ↗</b></a>
-    </td>
-  </tr>
-</table>
-
-<!-- ----- Group 2: Applied Engineering & ML Systems ----- -->
-<div align="center">
-  <img src="https://img.shields.io/badge/ML_Systems_•_Applied_Engineering-004D98?style=for-the-badge&labelColor=0A1224" alt="ML Systems" />
-</div>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Traffic Flow Detection — Video-Based Analytics Platform</h4>
-      <p>End-to-end traffic video analytics system enabling multi-class vehicle detection, tracking, lane assignment, and tripwire counting. Architected video ingestion and frontend workflows: ROI lane configuration, real-time analytics streaming, and visual analytics dashboards. Integrated YOLO detection, ByteTrack tracker, and directional tripwire heuristics.</p>
-      <p><b>Production Benchmark:</b> Attained <b>Event F1 0.942, WAPE 5.04%</b> on UA-DETRAC test sets, with batch throughput of <b>75.8 FPS (3.03x real-time)</b> and livestreaming at <b>14.9 FPS with 0% frame drop</b>.</p>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black" alt="YOLO" />
-        <img src="https://img.shields.io/badge/ByteTrack-EDBB00?style=flat-square" alt="ByteTrack" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-      </p>
-      <a href="https://github.com/monsierpotato/Traffic-Flow" target="_blank"><b>Repo ↗</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>ScholarSummar — RAG-based Research Assistant</h4>
-      <p>Intelligent scientific research assistant supporting academic PDF ingestion, hybrid lexical-dense search, and conversational document Q&A. Engineered RAG pipeline stages (text chunking, embedding generation, semantic retrieval), built frontend interfaces, wrote backend integration test suites, and managed Docker deployment.</p>
-      <p><b>Infrastructure:</b> Containerized microservices integrating Next.js, FastAPI, PostgreSQL/pgvector, Redis cache, Qdrant vector database, MinIO object storage, and nginx.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/Qdrant-DC2626?style=flat-square" alt="Qdrant" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      </p>
-      <a href="https://github.com/quangnhat1504/SchoolSummar" target="_blank"><b>Repo ↗</b></a>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <a href="https://github.com/huanight19RaH?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_All_Repositories-GitHub_Profile-004D98?style=for-the-badge&logo=github&logoColor=white&labelColor=0A1224" alt="More Projects" />
-  </a>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:004D98,50:A50044,100:EDBB00&height=3&width=100%&section=header" width="100%" alt="divider" />
-
-<!-- ========================= ANALYTICS & STREAK ========================= -->
-## GitHub Analytics &amp; Streak
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=huanight19RaH&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huanight19RaH&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huanight19RaH&theme=tokyonight" alt="Most Commit Language" />
-</div>
-
-<br/>
-
-<!-- Streak stats Blaugrana theme -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=huanight19RaH&stroke=004D98&ring=EDBB00&fire=A50044&currStreakNum=EDBB00&sideNums=ffffff&currStreakLabel=EDBB00&sideLabels=ffffff&dates=8B949E&background=080E1E&border_radius=10" alt="GitHub Streak (Blaugrana)" />
-</div>
-
-<br/>
+## Problem Solving & Activity
 
 <div align="center">
   <a href="https://leetcode.com/u/HungNguyen192/" target="_blank">
@@ -252,43 +100,12 @@
   </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:004D98,50:A50044,100:EDBB00&height=3&width=100%&section=header" width="100%" alt="divider" />
+---
 
-<!-- ========================= SNAKE GAME CONTRIBUTION GRAPH ========================= -->
-## Contribution Activity — Snake Game
+## Contact & Links
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huanight19RaH/huanight19RaH/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huanight19RaH/huanight19RaH/output/github-contribution-grid-snake.svg">
-    <img alt="Snake Game Contribution Graph (Blaugrana)" src="https://raw.githubusercontent.com/huanight19RaH/huanight19RaH/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:004D98,50:A50044,100:EDBB00&height=3&width=100%&section=header" width="100%" alt="divider" />
-
-<!-- ========================= CONNECT ========================= -->
-## Connect &amp; Collaborate
-
-<div align="center">
-  <p>I am actively exploring AI/CV research collaborations, software engineering internships, and community building partnerships.</p>
-
-  <a href="https://www.linkedin.com/in/thai-hung-nguyen-000b24356/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Thai_Hung_Nguyen-004D98?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A1224" alt="LinkedIn: Thai Hung Nguyen" />
-  </a>
-  <a href="mailto:hungnguyen.190206@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hungnguyen.190206@gmail.com-A50044?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A1224" alt="Gmail" />
-  </a>
-  <a href="https://www.facebook.com/thaihung.0219" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Thai_Hung-004D98?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=0A1224" alt="Facebook" />
-  </a>
-  <a href="https://leetcode.com/u/HungNguyen192/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-HungNguyen192-EDBB00?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0A1224" alt="LeetCode" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EDBB00,50:A50044,100:004D98&height=110&section=footer" width="100%" alt="footer" />
-</div>
+- **Email:** [hungnguyen.190206@gmail.com](mailto:hungnguyen.190206@gmail.com)
+- **LinkedIn:** [thai-hung-nguyen-000b24356](https://www.linkedin.com/in/thai-hung-nguyen-000b24356/)
+- **GitHub:** [huanight19RaH](https://github.com/huanight19RaH)
+- **LeetCode:** [HungNguyen192](https://leetcode.com/u/HungNguyen192/)
+- **Facebook:** [thaihung.0219](https://www.facebook.com/thaihung.0219)

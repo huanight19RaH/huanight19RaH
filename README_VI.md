@@ -1,250 +1,98 @@
-<!-- ========================= HERO / BLAUGRANA HEADER ========================= -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004D98,50:A50044,100:EDBB00&height=230&section=header&text=Nguyễn%20Thái%20Hưng&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20•%20FU-DEVER%20Vice%20President%20•%20Computer%20Vision%20Researcher&descSize=17&descAlignY=58" width="100%" alt="Header Banner" />
-</div>
-
-<!-- LANGUAGE SWITCHER -->
-<div align="center">
-  <a href="README.md">
-    <img src="https://img.shields.io/badge/Language-English-004D98?style=for-the-badge&logoColor=white&labelColor=0A1224" alt="English" />
-  </a>
-  <a href="README_VI.md">
-    <img src="https://img.shields.io/badge/Ngôn_ngữ-Tiếng_Việt-EDBB00?style=for-the-badge&logoColor=white&labelColor=0A1224" alt="Tiếng Việt (Đang chọn)" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/huanight19RaH">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=EDBB00&center=true&vCenter=true&width=860&lines=Xin+ch%C3%A0o!+M%C3%ACnh+l%C3%A0+Nguy%E1%BB%85n+Th%C3%A1i+H%C6%B0ng;AI+Engineer+%26+Researcher+in+the+making;Ph%C3%B3+ch%E1%BB%A7+nhi%E1%BB%87m+CLB+L%E1%BA%ADp+tr%C3%ACnh+FU-DEVER;Computer+Vision+%E2%80%A2+Image+Restoration+%E2%80%A2+Deep+Learning;M%C3%A9s+que+un+builder+%E2%80%A2+Passionate+about+AI" alt="Typing SVG" />
-  </a>
-</div>
-
-<!-- Badge hàng: phong cách FC Barcelona Blaugrana -->
-<div align="center">
-  <a href="https://github.com/huanight19RaH?tab=followers">
-    <img src="https://img.shields.io/github/followers/huanight19RaH?label=Followers&style=for-the-badge&color=004D98&labelColor=0A1224&logo=github&logoColor=white" alt="Followers" />
-  </a>
-  <a href="https://github.com/huanight19RaH?tab=repositories">
-    <img src="https://img.shields.io/badge/Focus-CV%20%7C%20Image%20Restoration%20%7C%20ML%20Systems-A50044?style=for-the-badge&labelColor=0A1224&logoColor=white" alt="Focus" />
-  </a>
-  <a href="#dự-án-thực-tế--verified-projects">
-    <img src="https://img.shields.io/badge/Research-2%20Accepted%20Papers-EDBB00?style=for-the-badge&labelColor=0A1224&color=EDBB00&logo=academia&logoColor=EDBB00" alt="Research Papers" />
-  </a>
-  <a href="https://github.com/huanight19RaH">
-    <img src="https://img.shields.io/badge/Based%20in-Đà%20Nẵng,%20VN-004D98?style=for-the-badge&labelColor=0A1224&logo=googlemaps&logoColor=white" alt="Location" />
-  </a>
-</div>
-
-<br/>
-
-<!-- ========================= TRIẾT LÝ ========================= -->
 <div align="center">
 
-> *"Đối với tương lai, nhiệm vụ của chúng ta không phải là ngồi đoán định, mà là đánh thức và mở lối để nó có thể thành hình."*
->
-> — **Antoine de Saint-Exupéry**, *Citadelle* (1948)
+# Nguyễn Thái Hưng
+
+**Kỹ sư AI & Nhà nghiên cứu Thị giác Máy tính (Computer Vision)**  
+Phó Chủ nhiệm CLB Lập trình FU-DEVER • Đại học FPT Đà Nẵng  
+Đà Nẵng, Việt Nam
+
+[English](README.md) • [Tiếng Việt](README_VI.md)
+
+---
+
+[Curriculum Vitae (PDF)](assets/Nguyen_Thai_Hung_CV.pdf) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/thai-hung-nguyen-000b24356/) &nbsp;|&nbsp; [GitHub](https://github.com/huanight19RaH) &nbsp;|&nbsp; [LeetCode](https://leetcode.com/u/HungNguyen192/) &nbsp;|&nbsp; [Email](mailto:hungnguyen.190206@gmail.com)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:004D98,50:A50044,100:EDBB00&height=3&width=100%&section=header" width="100%" alt="divider" />
+---
 
-<!-- ========================= ABOUT ME ========================= -->
-## Về Bản Thân — About Me
+## Tổng Quan
 
-<table width="100%">
+<table>
   <tr>
-    <td width="70%" valign="top">
-      <p>Mình là sinh viên năm 3 chuyên ngành <b>Trí tuệ nhân tạo (AI)</b> tại <b>Đại học FPT Đà Nẵng</b>, đồng thời giữ vai trò <b>Phó Chủ nhiệm Câu lạc bộ Lập trình FU-DEVER</b>. Hành trình của mình tập trung vào hai trụ cột song song: <b>Nghiên cứu Computer Vision / Image Restoration / ML Systems</b> và <b>kết nối, xây dựng cộng đồng sinh viên công nghệ</b>.</p>
+    <td width="78%" valign="top">
+      <p>Mình là sinh viên năm 3 chuyên ngành <b>Trí tuệ nhân tạo (AI)</b> tại <b>Đại học FPT Đà Nẵng</b>, đồng thời giữ vai trò <b>Phó Chủ nhiệm Câu lạc bộ Lập trình FU-DEVER</b>. Định hướng phát triển của mình tập trung vào nghiên cứu thực nghiệm <b>Computer Vision</b>, <b>Image Restoration</b> và xây dựng các hệ thống <b>Machine Learning Systems</b> kết hợp hoạt động học thuật cộng đồng.</p>
       <ul>
-        <li><b>Học tập &amp; Nghiên cứu:</b> Nghiên cứu chuyên sâu về <b>Underwater Image Restoration</b>, <b>Low-Light Image Enhancement (LLIE)</b> và <b>Physics-Informed Deep Learning</b>. Đã có <b>2 bài báo khoa học chính thức được accepted</b> (trong đó có 1 bài đã xuất bản tại kỷ yếu Springer MIWAI 2026 với vai trò Đồng tác giả) với kết quả benchmark thực tế và mã nguồn rõ ràng.</li>
-        <li><b>Lãnh đạo &amp; Hoạt động Xã hội:</b> Phó Chủ nhiệm <b>CLB Lập trình FU-DEVER</b> — đồng hành định hướng và tổ chức các hoạt động học thuật, chuỗi workshop chuyên môn và cuộc thi công nghệ tại FPTU Đà Nẵng; Media Lead dự án thiện nguyện <i>Bật Nụ Cười Lên (Sunshine Team)</i> hỗ trợ các em nhỏ tại Làng Hy Vọng.</li>
-        <li><b>Sở thích &amp; Đời sống:</b> Fan trung thành của <b>FC Barcelona (Blaugrana)</b>; đam mê bóng đá, bơi lội, đọc sách, nghe nhạc và chơi game để rèn luyện tư duy linh hoạt; sở hữu chứng chỉ tiếng Anh <b>IELTS 6.0</b> (2024).</li>
+        <li><b>Nghiên cứu khoa học:</b> Chuyên sâu về Physics-Informed Deep Learning, Underwater Image Restoration và Low-Light Image Enhancement (LLIE). Đã có 1 bài báo xuất bản tại kỷ yếu hội nghị quốc tế <b>Springer MIWAI 2026</b> (Đồng tác giả) và 1 bài báo về phục hồi ảnh dưới nước đã accepted.</li>
+        <li><b>Cộng đồng &amp; Lãnh đạo:</b> Điều phối tổ chức các hội thảo chuyên môn, cuộc thi lập trình và chương trình cố vấn kỹ thuật tại FU-DEVER; nguyên Trưởng ban Truyền thông dự án thiện nguyện Bật Nụ Cười Lên (Sunshine Team).</li>
+        <li><b>Chứng chỉ ngoại ngữ:</b> IELTS 6.0 (2024).</li>
       </ul>
-      <p>
-        <a href="assets/Nguyen_Thai_Hung_CV.pdf"><img src="https://img.shields.io/badge/Curriculum_Vitae-Tải_Bản_PDF-004D98?style=flat-square&labelColor=0A1224" alt="CV" /></a>
-        <img src="https://img.shields.io/badge/Research-2_Papers-A50044?style=flat-square&labelColor=0A1224" alt="Researching" />
-        <img src="https://img.shields.io/badge/English-IELTS_6.0-EDBB00?style=flat-square&labelColor=0A1224" alt="IELTS" />
-      </p>
     </td>
-    <td width="30%" valign="middle" align="center">
-      <img src="assets/avatar.png" width="190" style="border-radius:16px; border: 2px solid #A50044;" alt="Nguyễn Thái Hưng" />
+    <td width="22%" align="center" valign="middle">
+      <img src="assets/avatar.png" width="140" alt="Nguyễn Thái Hưng" />
       <br/>
-      <sub><i>Nguyễn Thái Hưng • AI Engineer &amp; Researcher</i></sub>
+      <sub><b>Nguyễn Thái Hưng</b></sub>
     </td>
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:004D98,50:A50044,100:EDBB00&height=3&width=100%&section=header" width="100%" alt="divider" />
+---
 
-<!-- ========================= HONORS & AWARDS ========================= -->
-## Thành tích &amp; Giải thưởng — Honors &amp; Awards
+## Nghiên Cứu Khoa Học & Công Bố
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Consolation Prize (Giải Khuyến Khích)</h4>
-      <p><b>Research Festival 2026 / Research Connect</b> — Đại học FPT Đà Nẵng (May 2026)</p>
-      <p>Công trình nghiên cứu khoa học xuất sắc về thị giác máy tính và phục hồi ảnh được hội đồng khoa học vinh danh tại ngày hội nghiên cứu thường niên của FPT University.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>Second Prize (Giải Nhì)</h4>
-      <p><b>Code Mosaic 2025 Programming Hackathon</b> — Đại học FPT Đà Nẵng (Oct 2025)</p>
-      <p>Cuộc thi lập trình hackathon thường niên chuyên sâu về cấu trúc dữ liệu và giải thuật (Data Structures &amp; Algorithms).</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Consolation Prize (Giải Khuyến Khích HSG Toán)</h4>
-      <p><b>Kỳ thi Học sinh Giỏi cấp Thành phố Đà Nẵng</b> (Jan 2024)</p>
-      <p>Giải thưởng cấp thành phố môn Toán học do Sở Giáo dục và Đào tạo Thành phố Đà Nẵng tổ chức.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>2 Peer-Reviewed Conference Papers</h4>
-      <p><b>Underwater Image Restoration &amp; Low-Light Image Enhancement (MIWAI 2026, Springer)</b></p>
-      <p>Đồng tác giả bài báo HybridLLIENet đã xuất bản tại kỷ yếu Springer MIWAI 2026; bài báo phục hồi ảnh dưới nước đã accepted.</p>
-    </td>
-  </tr>
-</table>
+### 1. HybridLLIENet: Multi-Space Luminance Prior Fusion for Low-Light Image Enhancement
+- **Hội nghị / Nhà xuất bản:** International Conference on Multi-disciplinary Trends in Artificial Intelligence (MIWAI 2026), **Springer**
+- **Vai trò:** Đồng tác giả (Co-Author)
+- **Phương pháp tiếp cận:** Nghiên cứu tăng cường ảnh thiếu sáng bằng kỹ thuật hợp nhất prior độ sáng đa không gian màu (LAB-L, HSV-V, YCbCr-Y) kết hợp CLAHE và gamma correction trên mạng U-Net. Tham gia khảo sát tài liệu, thảo luận thực nghiệm, hoàn thiện bài báo và benchmark mô hình trên tập dữ liệu LOL.
+- **Kết quả thực nghiệm:** Đạt **21.23 dB PSNR**, **0.858 SSIM**, **0.127 LPIPS** trên LOLv2-Real với mô hình tối ưu chỉ **8.04M tham số và 79.26 GFLOPs**.
+- **Liên kết:** [Kỷ yếu Springer Link](https://link.springer.com/chapter/10.1007/978-981-92-6513-8_10) &nbsp;|&nbsp; [Mã nguồn GitHub](https://github.com/huanight19RaH)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:004D98,50:A50044,100:EDBB00&height=3&width=100%&section=header" width="100%" alt="divider" />
+### 2. Assessing Physics-Informed Priors in Underwater Image Restoration
+- **Tình trạng:** Bài báo hội nghị đã được chấp thuận (Accepted)
+- **Vai trò:** Tác giả (Author)
+- **Phương pháp tiếp cận:** Đánh giá các prior vật lý cho bài toán phục hồi ảnh dưới nước bằng cách xây dựng transmission map *t(x)* và backscatter map *B(x)* làm các kênh bổ trợ trong kiến trúc U-Net tùy biến; so sánh đánh giá cấu hình RGB, RGB + *t(x)*, RGB + *B(x)* và RGB + *t(x)* + *B(x)*.
+- **Kết quả thực nghiệm:** Đạt **21.012 dB PSNR / 0.884 SSIM** trên UIEB T90 và **26.644 dB PSNR / 0.873 SSIM** trên EUVP-Test đối với mô hình 5 kênh.
+- **Liên kết:** [Mã nguồn GitHub](https://github.com/heniath/underwater-image-enhancement)
 
-<!-- ========================= TECH STACK ========================= -->
-## Kỹ năng &amp; Công cụ — Tech Stack
+---
 
-<div align="center">
+## Dự Án Kỹ Thuật Tiêu Biểu
 
-**Deep Learning, Computer Vision &amp; AI Research**
+### Traffic Flow Detection — Nền tảng phân tích luồng video giao thông
+- **Quy mô & Phạm vi:** Hệ thống phân tích video giao thông toàn diện hỗ trợ phát hiện, theo dõi, gán làn đường và đếm phương tiện cắt vạch theo hướng di chuyển. Thiết kế luồng xử lý và trực tiếp triển khai giao diện: cấu hình vùng ROI, làn đường, giám sát luồng livestream và bảng điều khiển trực quan.
+- **Công nghệ sử dụng:** Python, FastAPI, YOLO, ByteTrack, OpenCV, React
+- **Chỉ số benchmark:** Đạt **Event F1: 0.942, WAPE: 5.04%** trên tập dữ liệu UA-DETRAC; thông lượng xử lý batch đạt **75.8 FPS** (gấp 3.03 lần thời gian thực) và livestream đạt **14.9 FPS** không rớt khung hình.
+- **Liên kết:** [Mã nguồn GitHub](https://github.com/monsierpotato/Traffic-Flow)
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/U--Net-004D98?style=for-the-badge" alt="U-Net" />
-<img src="https://img.shields.io/badge/Physics--Informed_DL-A50044?style=for-the-badge" alt="Physics-Informed DL" />
-<img src="https://img.shields.io/badge/YOLO_%26_ByteTrack-EDBB00?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO" />
+### ScholarSummar — Trợ lý nghiên cứu tài liệu khoa học trên nền tảng RAG
+- **Quy mô & Phạm vi:** Trợ lý thông minh hỗ trợ xử lý tài liệu PDF học thuật, tìm kiếm kết hợp ngữ nghĩa và từ khóa (hybrid search), hỏi đáp tài liệu tự động. Xây dựng các tầng trong RAG pipeline (chunking, embedding, retrieval), giao diện frontend, bộ kiểm thử backend và đóng gói triển khai Docker.
+- **Công nghệ sử dụng:** Next.js, FastAPI, PostgreSQL (pgvector), Qdrant, Redis, MinIO, Docker
+- **Liên kết:** [Mã nguồn GitHub](https://github.com/quangnhat1504/SchoolSummar)
 
-**Languages, Data &amp; Web**
+---
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C/C++" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+## Kỹ Năng Kỹ Thuật
 
-**Tools, Platforms &amp; Automation**
+| Lĩnh vực | Công nghệ & Công cụ |
+| :--- | :--- |
+| **Deep Learning & Computer Vision** | PyTorch, TensorFlow, OpenCV, scikit-learn, U-Net, YOLO, ByteTrack, Physics-Informed DL |
+| **Ngôn ngữ & Hệ thống Backend** | Python, C/C++, SQL, FastAPI, Next.js, NumPy, pandas |
+| **Hạ tầng & Công cụ phát triển** | Docker, Linux (Ubuntu), Git, GitHub, PostgreSQL, Qdrant, Redis, Jira |
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Linux_/_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Linux" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-<img src="https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+---
 
-</div>
+## Thành Tích & Giải Thưởng
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:004D98,50:A50044,100:EDBB00&height=3&width=100%&section=header" width="100%" alt="divider" />
+- **Giải Khuyến Khích** — Research Festival 2026 / Research Connect, Đại học FPT Đà Nẵng (Tháng 5/2026)  
+  *Vinh danh công trình nghiên cứu ứng dụng thị giác máy tính và phục hồi ảnh.*
+- **Giải Nhì** — Hackathon Lập trình Code Mosaic 2025, Đại học FPT Đà Nẵng (Tháng 10/2025)  
+  *Cuộc thi lập trình thuật toán và cấu trúc dữ liệu thường niên.*
+- **Giải Khuyến Khích môn Toán** — Kỳ thi Học sinh Giỏi cấp Thành phố Đà Nẵng (Tháng 1/2024)  
+  *Khen tặng bởi Sở Giáo dục và Đào tạo Thành phố Đà Nẵng.*
 
-<!-- ========================= PROJECTS ========================= -->
-## Dự án Thực Tế — Verified Projects
+---
 
-<!-- ----- Nhóm 1: AI / Computer Vision Research (2 Papers) ----- -->
-<div align="center">
-  <img src="https://img.shields.io/badge/AI_•_Computer_Vision_Research_(2_Papers)-A50044?style=for-the-badge&labelColor=0A1224" alt="AI/CV Research" />
-</div>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Assessing Physics-Informed Priors in Underwater Image Restoration</h4>
-      <p>Nghiên cứu đánh giá các prior vật lý cho bài toán phục hồi ảnh dưới nước trên kiến trúc U-Net tùy biến. Khảo sát literature, tham gia viết bài báo và thảo luận kỹ thuật. Nghiên cứu transmission map <i>t(x)</i> và backscatter map <i>B(x)</i> làm kênh bổ trợ dựa trên mô hình vật lý; đánh giá các cấu hình RGB, RGB + <i>t(x)</i>, RGB + <i>B(x)</i>, RGB + <i>t(x)</i> + <i>B(x)</i> trên cùng backbone U-Net.</p>
-      <p><b>Kết quả thực nghiệm:</b> Đạt <b>21.012 dB PSNR / 0.884 SSIM</b> trên UIEB T90 và <b>26.644 dB PSNR / 0.873 SSIM</b> trên EUVP-Test cho mô hình 5 kênh.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-        <img src="https://img.shields.io/badge/Computer_Vision-004D98?style=flat-square" alt="CV" />
-        <img src="https://img.shields.io/badge/Paper-Accepted-10B981?style=flat-square" alt="Accepted" />
-      </p>
-      <a href="https://github.com/heniath/underwater-image-enhancement" target="_blank"><b>Mã nguồn ↗</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>HybridLLIENet: Multi-Space Luminance Prior Fusion</h4>
-      <p><b>Vai trò: Đồng tác giả (Co-Author)</b> • Đã xuất bản tại kỷ yếu hội nghị quốc tế <i>MIWAI 2026 (International Conference on Multi-disciplinary Trends in Artificial Intelligence)</i>, Nhà xuất bản Springer.</p>
-      <p>Nghiên cứu tăng cường ảnh thiếu sáng bằng kỹ thuật hợp nhất prior độ sáng đa không gian màu (LAB-L, HSV-V, YCbCr-Y) kết hợp CLAHE và gamma correction trên mạng phục hồi U-Net. Đảm nhiệm vai trò đồng tác giả: tham gia khảo sát tài liệu liên quan, thảo luận định hướng thực nghiệm, viết bài báo và benchmark các mô hình trên tập dữ liệu LOL.</p>
-      <p><b>Kết quả thực nghiệm:</b> Đạt <b>21.23 dB PSNR, 0.858 SSIM, 0.127 LPIPS</b> trên LOLv2-Real với mô hình tối ưu chỉ <b>8.04M tham số và 79.26 GFLOPs</b>.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-        <img src="https://img.shields.io/badge/MIWAI_2026-Springer-004D98?style=flat-square" alt="Springer" />
-        <img src="https://img.shields.io/badge/Vai_trò-Đồng_tác_giả-A50044?style=flat-square" alt="Đồng tác giả" />
-        <img src="https://img.shields.io/badge/Trạng_thái-Đã_xuất_bản-10B981?style=flat-square" alt="Đã xuất bản" />
-      </p>
-      <a href="https://github.com/huanight19RaH" target="_blank"><b>Mã nguồn ↗</b></a> &nbsp;|&nbsp; <a href="https://link.springer.com/chapter/10.1007/978-981-92-6513-8_10" target="_blank"><b>Bài báo (Springer) ↗</b></a>
-    </td>
-  </tr>
-</table>
-
-<!-- ----- Nhóm 2: Applied Engineering & ML Systems ----- -->
-<div align="center">
-  <img src="https://img.shields.io/badge/ML_Systems_•_Applied_Engineering-004D98?style=for-the-badge&labelColor=0A1224" alt="ML Systems" />
-</div>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Traffic Flow Detection — Video-Based Analytics Platform</h4>
-      <p>Hệ thống phân tích luồng video giao thông phục vụ phát hiện, theo dõi và đếm phương tiện theo làn đường, phân loại và hướng di chuyển. Đóng góp luồng xử lý và đảm nhiệm chính việc triển khai frontend: giao diện tải video/phân tích livestream, cấu hình vùng ROI/làn xe/vạch đếm, theo dõi tiến độ và hiển thị kết quả. Tích hợp pipeline phát hiện YOLO, tracking ByteTrack, gán làn đường và đếm xe cắt vạch.</p>
-      <p><b>Benchmark thực tế:</b> Đạt <b>Event F1 0.942, WAPE 5.04%</b> trên tập kiểm thử UA-DETRAC, tốc độ xử lý batch <b>75.8 FPS (3.03x real-time)</b> và livestream đạt <b>14.9 FPS với 0% drop rate</b>.</p>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black" alt="YOLO" />
-        <img src="https://img.shields.io/badge/ByteTrack-EDBB00?style=flat-square" alt="ByteTrack" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-      </p>
-      <a href="https://github.com/monsierpotato/Traffic-Flow" target="_blank"><b>Mã nguồn ↗</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>ScholarSummar — RAG-based Research Assistant</h4>
-      <p>Trợ lý nghiên cứu hỗ trợ quản lý tài liệu PDF khoa học, tìm kiếm lai (hybrid search) và hỏi đáp tài liệu Q&amp;A tự động. Hỗ trợ quy trình RAG pipeline (chunking văn bản, chuẩn bị tập dữ liệu embedding, luồng truy hồi kết quả). Đóng góp xây dựng frontend, viết test case backend và triển khai hạ tầng Docker.</p>
-      <p><b>Hạ tầng &amp; Công nghệ:</b> Kiến trúc microservices tích hợp Next.js, FastAPI, PostgreSQL/pgvector, Redis, Qdrant vector database, MinIO và nginx.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/Qdrant-DC2626?style=flat-square" alt="Qdrant" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      </p>
-      <a href="https://github.com/quangnhat1504/SchoolSummar" target="_blank"><b>Mã nguồn ↗</b></a>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <a href="https://github.com/huanight19RaH?tab=repositories">
-    <img src="https://img.shields.io/badge/Khám_Phá_Thêm_Kho_Mã_Nguồn-GitHub_Repositories-004D98?style=for-the-badge&logo=github&logoColor=white&labelColor=0A1224" alt="More Projects" />
-  </a>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:004D98,50:A50044,100:EDBB00&height=3&width=100%&section=header" width="100%" alt="divider" />
-
-<!-- ========================= ANALYTICS & STREAK ========================= -->
-## Thống kê GitHub &amp; Chuỗi hoạt động — GitHub Analytics &amp; Streak
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=huanight19RaH&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huanight19RaH&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huanight19RaH&theme=tokyonight" alt="Most Commit Language" />
-</div>
-
-<br/>
-
-<!-- Streak stats tùy biến màu sắc Blaugrana -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=huanight19RaH&stroke=004D98&ring=EDBB00&fire=A50044&currStreakNum=EDBB00&sideNums=ffffff&currStreakLabel=EDBB00&sideLabels=ffffff&dates=8B949E&background=080E1E&border_radius=10" alt="GitHub Streak (Blaugrana)" />
-</div>
-
-<br/>
+## Luyện Tập Thuật Toán & Hoạt Động
 
 <div align="center">
   <a href="https://leetcode.com/u/HungNguyen192/" target="_blank">
@@ -252,43 +100,12 @@
   </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:004D98,50:A50044,100:EDBB00&height=3&width=100%&section=header" width="100%" alt="divider" />
+---
 
-<!-- ========================= SNAKE GAME CONTRIBUTION GRAPH ========================= -->
-## Hoạt động Đóng góp — Snake Game Contribution Graph
+## Kết Nối
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huanight19RaH/huanight19RaH/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huanight19RaH/huanight19RaH/output/github-contribution-grid-snake.svg">
-    <img alt="Snake Game Contribution Graph (Blaugrana)" src="https://raw.githubusercontent.com/huanight19RaH/huanight19RaH/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:004D98,50:A50044,100:EDBB00&height=3&width=100%&section=header" width="100%" alt="divider" />
-
-<!-- ========================= CONNECT ========================= -->
-## Liên kết &amp; Hợp tác — Let's Connect
-
-<div align="center">
-  <p>Mình luôn sẵn sàng đón nhận các cơ hội nghiên cứu AI/CV, thực tập thực tế, hoặc hợp tác phát triển dự án công nghệ &amp; cộng đồng.</p>
-
-  <a href="https://www.linkedin.com/in/thai-hung-nguyen-000b24356/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Nguyễn_Thái_Hưng-004D98?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A1224" alt="LinkedIn: Nguyễn Thái Hưng" />
-  </a>
-  <a href="mailto:hungnguyen.190206@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hungnguyen.190206@gmail.com-A50044?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A1224" alt="Gmail" />
-  </a>
-  <a href="https://www.facebook.com/thaihung.0219" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Thái_Hưng-004D98?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=0A1224" alt="Facebook" />
-  </a>
-  <a href="https://leetcode.com/u/HungNguyen192/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-HungNguyen192-EDBB00?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0A1224" alt="LeetCode" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EDBB00,50:A50044,100:004D98&height=110&section=footer" width="100%" alt="footer" />
-</div>
+- **Email:** [hungnguyen.190206@gmail.com](mailto:hungnguyen.190206@gmail.com)
+- **LinkedIn:** [thai-hung-nguyen-000b24356](https://www.linkedin.com/in/thai-hung-nguyen-000b24356/)
+- **GitHub:** [huanight19RaH](https://github.com/huanight19RaH)
+- **LeetCode:** [HungNguyen192](https://leetcode.com/u/HungNguyen192/)
+- **Facebook:** [thaihung.0219](https://www.facebook.com/thaihung.0219)
